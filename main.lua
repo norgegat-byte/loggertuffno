@@ -40,7 +40,7 @@ local GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
 
-local TARGET_ID = 2829121161
+local TARGET_ID = 43
 
 local DELAY_STEP = 1
 
